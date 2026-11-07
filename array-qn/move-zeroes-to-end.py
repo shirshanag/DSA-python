@@ -15,7 +15,7 @@ print(nums)
 # Optimal solution
 nums=[1,0,4,3,0,2]
 n=len(nums)
-temp=[]
+
 i=0
 if n==1:
     print(nums)
